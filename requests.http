@@ -1,0 +1,7 @@
+### 
+curl -i -X POST http://localhost:4000/snippet/create
+
+### Method Not Allowed
+curl -i -X PUT http://localhost:4000/snippet/create
+
+### 
